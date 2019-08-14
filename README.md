@@ -10,13 +10,16 @@ Solved competitive programming problems.
 | 118 | A | String Task | [Link](codeforces/118A.py) |
 | 124 | A | The Number of Positions | [Link](codeforces/124A.py) |
 | 160 | A | Twins | [Link](codeforces/160A.py) |
+| 189 | A | Cut Ribbon | [Link](codeforces/189A.py) |
 | 217 | A | Ice Skating | [Link](codeforces/217A.py) |
+| 230 | B | T-Primes | [Link](codeforces/230B.py) |
 | 381 | A | Sereja and Dima | [Link](codeforces/381A.py) |
 | 405 | A | Gravity Flip | [Link](codeforces/405A.py) |
 | 445 | A | DZY Loves Chessboard | [Link](codeforces/445A.py) |
 | 451 | A | Game with Sticks | [Link](codeforces/451A.py) |
 | 466 | A | Cheap Travel | [Link](codeforces/466A.py) |
 | 514 | A | Chewbacca and Number | [Link](codeforces/514A.py) |
+| 518 | B | Tanya and Postcard | [Link](codeforces/518B.py) |
 | 520 | A | Pangram | [Link](codeforces/520A.py) |
 | 560 | A | Currency System in Geraldion | [Link](codeforces/560A.py) |
 | 567 | A | Lineland Mail | [Link](codeforces/567A.py) |
@@ -27,6 +30,8 @@ Solved competitive programming problems.
 | 651 | A | Joysticks | [Link](codeforces/651A.py) |
 | 653 | A | Bear and Three Balls | [Link](codeforces/653A.py) |
 | 664 | A | Complicated GCD | [Link](codeforces/664A.py) |
+| 732 | B | Cormen - The Best Friend Of a Man | [Link](codeforces/732B.py) |
+| 755 | B | PolandBall and Game | [Link](codeforces/755B.py) |
 | 757 | A | Gotta Catch Em'All | [Link](codeforces/757A.py) |
 | 882 | A | I'm bored with life | [Link](codeforces/882A.py) |
 | 893 | A | Chess For Three | [Link](codeforces/893A.py) |
