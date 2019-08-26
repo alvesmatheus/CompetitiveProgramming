@@ -16,6 +16,7 @@ Solved competitive programming problems.
 | 230 | B | T-Primes | [Link](codeforces/230B.py) |
 | 381 | A | Sereja and Dima | [Link](codeforces/381A.py) |
 | 405 | A | Gravity Flip | [Link](codeforces/405A.py) |
+| 430 | B | Balls Game | [Link](codeforces/430B.py) |
 | 445 | A | DZY Loves Chessboard | [Link](codeforces/445A.py) |
 | 451 | A | Game with Sticks | [Link](codeforces/451A.py) |
 | 466 | A | Cheap Travel | [Link](codeforces/466A.py) |
@@ -25,6 +26,7 @@ Solved competitive programming problems.
 | 560 | A | Currency System in Geraldion | [Link](codeforces/560A.py) |
 | 567 | A | Lineland Mail | [Link](codeforces/567A.py) |
 | 584 | A | Olesya and Rodion | [Link](codeforces/584A.py) |
+| 588 | B | Duff in Love | [Link](codeforces/588B.py) |
 | 609 | A | USB Flash Drivers | [Link](codeforces/609A.py) |
 | 610 | A | Pasha and Stick | [Link](codeforces/610A.py) |
 | 617 | A | Elephant | [Link](codeforces/617A.py) |
