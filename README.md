@@ -14,9 +14,11 @@ Solved competitive programming problems.
 | 189 | A | Cut Ribbon | [Link](codeforces/189A.py) |
 | 217 | A | Ice Skating | [Link](codeforces/217A.py) |
 | 230 | B | T-Primes | [Link](codeforces/230B.py) |
+| 313 | B | Ilya and Queries | [Link](codeforces/313B.py) |
 | 381 | A | Sereja and Dima | [Link](codeforces/381A.py) |
 | 405 | A | Gravity Flip | [Link](codeforces/405A.py) |
 | 430 | B | Balls Game | [Link](codeforces/430B.py) |
+| 433 | B | Kuriyama Mirai's Stones | [Link](codeforces/433B.py) |
 | 445 | A | DZY Loves Chessboard | [Link](codeforces/445A.py) |
 | 451 | A | Game with Sticks | [Link](codeforces/451A.py) |
 | 466 | A | Cheap Travel | [Link](codeforces/466A.py) |
