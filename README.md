@@ -38,6 +38,8 @@ Solved competitive programming problems.
 | 732 | B | Cormen - The Best Friend Of a Man | [Link](codeforces/732B.py) |
 | 755 | B | PolandBall and Game | [Link](codeforces/755B.py) |
 | 757 | A | Gotta Catch Em'All | [Link](codeforces/757A.py) |
+| 796 | A | Buying A House | [Link](codeforces/796A.py) |
+| 822 | B | Crossword Solving | [Link](codeforces/822B.py) |
 | 841 | B | Godsend | [Link](codeforces/841B.py) |
 | 882 | A | I'm bored with life | [Link](codeforces/882A.py) |
 | 893 | A | Chess For Three | [Link](codeforces/893A.py) |
@@ -50,6 +52,7 @@ Solved competitive programming problems.
 | 915 | A | Garden | [Link](codeforces/915A.py) |
 | 915 | B | Browser | [Link](codeforces/915B.py) |
 | 916 | A | Jamie and Alarm Snooze | [Link](codeforces/916A.py) |
+| 908 | A | New Year and Counting Cards | [Link](codeforces/908A.py) |
 | 935 | A | Fafa and his Company | [Link](codeforces/935A.py) |
 | 935 | B | Fafa and the Gates | [Link](codeforces/935B.py) |
 | 948 | A | Protect Sheep | [Link](codeforces/948A.py) |
