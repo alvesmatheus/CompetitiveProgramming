@@ -22,6 +22,7 @@ Solved competitive programming problems.
 | 445 | A | DZY Loves Chessboard | [Link](Codeforces/445A.py) |
 | 451 | A | Game with Sticks | [Link](Codeforces/451A.py) |
 | 466 | A | Cheap Travel | [Link](Codeforces/466A.py) |
+| 509 | B | Painting Pebbles | [Link](Codeforces/509B.py) |
 | 514 | A | Chewbacca and Number | [Link](Codeforces/514A.py) |
 | 518 | B | Tanya and Postcard | [Link](Codeforces/518B.py) |
 | 520 | A | Pangram | [Link](Codeforces/520A.py) |
