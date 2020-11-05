@@ -26,6 +26,7 @@ Solved competitive programming problems.
 | 514 | A | Chewbacca and Number | [Link](Codeforces/514A.py) |
 | 518 | B | Tanya and Postcard | [Link](Codeforces/518B.py) |
 | 520 | A | Pangram | [Link](Codeforces/520A.py) |
+| 559 | B | Equivalent Strings | [Link](Codeforces/559B.py) |
 | 560 | A | Currency System in Geraldion | [Link](Codeforces/560A.py) |
 | 567 | A | Lineland Mail | [Link](Codeforces/567A.py) |
 | 584 | A | Olesya and Rodion | [Link](Codeforces/584A.py) |
@@ -57,6 +58,7 @@ Solved competitive programming problems.
 | 935 | A | Fafa and his Company | [Link](Codeforces/935A.py) |
 | 935 | B | Fafa and the Gates | [Link](Codeforces/935B.py) |
 | 948 | A | Protect Sheep | [Link](Codeforces/948A.py) |
+| 1352 | C | K-th Not Divisible by n | [Link](Codeforces/1352C.py) |
 
 ## URI Online Judge
 
@@ -65,3 +67,9 @@ Solved competitive programming problems.
 | 1556 | 8 | Removing Letters | [Link](URI/1556.py) |
 | 1590 | 8 | Cuarenta and Two | [Link](URI/1590.py) |
 | 1905 | 5 | Cops and Robbers | [Link](URI/1905.py) |
+
+## Sphere Online Judge
+
+| # | Difficulty | Title | Solution |
+| :--: | :--: | :--: | :--: |
+| COUNTINV | - | Count inversions in a small array | [Link](SPOJ/COUNTINV.py) |
