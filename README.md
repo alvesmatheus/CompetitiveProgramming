@@ -2,6 +2,13 @@
 
 Solved competitive programming problems.
 
+## AtCoder
+
+| # | Difficulty | Title | Solution |
+| :--: | :--: | :--: | :--: |
+| DP-C | - | Vacation | [Link](AtCoder/DP-C.py) |
+| DP-D | - | Knapsack 1 | [Link](AtCoder/DP-D.py) |
+
 ## Codeforces
 
 | # | Difficulty | Title | Solution |
@@ -15,6 +22,7 @@ Solved competitive programming problems.
 | 217 | A | Ice Skating | [Link](Codeforces/217A.py) |
 | 230 | B | T-Primes | [Link](Codeforces/230B.py) |
 | 313 | B | Ilya and Queries | [Link](Codeforces/313B.py) |
+| 368 | B | Sereja and Suffixes | [Link](Codeforces/368B.py) |
 | 381 | A | Sereja and Dima | [Link](Codeforces/381A.py) |
 | 405 | A | Gravity Flip | [Link](Codeforces/405A.py) |
 | 430 | B | Balls Game | [Link](Codeforces/430B.py) |
@@ -60,6 +68,12 @@ Solved competitive programming problems.
 | 948 | A | Protect Sheep | [Link](Codeforces/948A.py) |
 | 1352 | C | K-th Not Divisible by n | [Link](Codeforces/1352C.py) |
 
+## Sphere Online Judge
+
+| # | Difficulty | Title | Solution |
+| :--: | :--: | :--: | :--: |
+| COUNTINV | - | Count inversions in a small array | [Link](SPOJ/COUNTINV.py) |
+
 ## URI Online Judge
 
 | # | Difficulty | Title | Solution |
@@ -67,9 +81,3 @@ Solved competitive programming problems.
 | 1556 | 8 | Removing Letters | [Link](URI/1556.py) |
 | 1590 | 8 | Cuarenta and Two | [Link](URI/1590.py) |
 | 1905 | 5 | Cops and Robbers | [Link](URI/1905.py) |
-
-## Sphere Online Judge
-
-| # | Difficulty | Title | Solution |
-| :--: | :--: | :--: | :--: |
-| COUNTINV | - | Count inversions in a small array | [Link](SPOJ/COUNTINV.py) |
