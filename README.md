@@ -45,6 +45,7 @@ Solved competitive programming problems.
 | 651 | A | Joysticks | [Link](Codeforces/651A.py) |
 | 653 | A | Bear and Three Balls | [Link](Codeforces/653A.py) |
 | 664 | A | Complicated GCD | [Link](Codeforces/664A.py) |
+| 689 | B | Mike and Shortcuts | [Link](Codeforces/689B.py) |
 | 732 | B | Cormen - The Best Friend Of a Man | [Link](Codeforces/732B.py) |
 | 755 | B | PolandBall and Game | [Link](Codeforces/755B.py) |
 | 757 | A | Gotta Catch Em'All | [Link](Codeforces/757A.py) |
@@ -78,6 +79,10 @@ Solved competitive programming problems.
 
 | # | Difficulty | Title | Solution |
 | :--: | :--: | :--: | :--: |
+| 1552 | 7 | Dark Roads | [Link](URI/1552.py) |
 | 1556 | 8 | Removing Letters | [Link](URI/1556.py) |
 | 1590 | 8 | Cuarenta and Two | [Link](URI/1590.py) |
+| 1764 | 7 | Itinerary of Santa Claus | [Link](URI/1764.py) |
 | 1905 | 5 | Cops and Robbers | [Link](URI/1905.py) |
+| 2404 | 7 | Reduzindo Detalhes em um Mapa | [Link](URI/2404.py) |
+| 2854 | 7 | Family Tree | [Link](URI/2854.py) |
